@@ -1,7 +1,5 @@
 <template>
-  <nav
-    class="bg-white border-b border-gray-200"
-  >
+  <nav class="bg-white border-b border-gray-200">
     <div
       class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto px-4 py-2"
     >
