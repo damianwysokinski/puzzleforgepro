@@ -17,7 +17,7 @@
             </button>
             <NuxtLink to="/" class="flex items-center justify-between mr-4">
               <span class="self-center text-2xl font-semibold whitespace-nowrap"
-                >PuzzleForgePro</span
+                >puzzleforgepro</span
               >
             </NuxtLink>
           </div>
@@ -48,9 +48,7 @@
         </div>
       </aside>
 
-      <main
-        class="p-4 md:ml-80 h-auto pt-20 flex flex-col items-center justify-center"
-      >
+      <main class="p-4 md:ml-80 h-auto pt-20 ">
         <slot />
       </main>
     </div>
