@@ -10,13 +10,13 @@
       </NuxtLink>
       <div class="flex items-center space-x-3">
         <NuxtLink
-          to="/"
-          class="text-indigo-700 hover:text-white border-2 border-indigo-700 hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 font-semibold rounded-lg text-sm px-5 py-2.5 text-center"
+          to="/login"
+          class="text-black font-semibold text-sm px-5 py-2.5 text-center"
           >Sign in</NuxtLink
         >
         <NuxtLink
-          to="/"
-          class="text-white bg-indigo-700 border-2 border-indigo-700 hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center"
+          to="/signup"
+          class="text-black bg-gray-100 border-2 border-black focus:outline-none font-medium rounded-lg text-sm px-5 py-2.5 text-center"
           >Get started</NuxtLink
         >
       </div>
