@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="antialiased bg-gray-50">
+    <div class="antialiased">
       <nav
         class="bg-white border-b border-gray-200 px-4 py-2.5 fixed left-0 right-0 top-0 z-50"
       >
@@ -17,7 +17,7 @@
             </button>
             <NuxtLink to="/" class="flex items-center justify-between mr-4">
               <span class="self-center text-2xl font-semibold whitespace-nowrap"
-                >PuzzleForgePro</span
+                >puzzleforgepro</span
               >
             </NuxtLink>
           </div>
@@ -48,9 +48,7 @@
         </div>
       </aside>
 
-      <main
-        class="p-4 md:ml-80 h-auto pt-20 flex flex-col items-center justify-center"
-      >
+      <main class="p-4 md:ml-80 h-auto pt-20">
         <slot />
       </main>
     </div>
