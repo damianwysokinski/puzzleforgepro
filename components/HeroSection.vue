@@ -6,7 +6,7 @@
       <h1
         class="mb-6 mx-auto text-3xl tracking-tight font-extrabold text-gray-900 md:text-5xl max-w-2xl"
       >
-        Create Unlimited Puzzle Boards with PuzzleForgePro
+        The easiest way to create downloadable puzzle boards
       </h1>
       <p
         class="mb-8 mx-auto text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 max-w-5xl"
