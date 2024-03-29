@@ -126,13 +126,16 @@
             width="500"
             height="750"
             class="bg-white shadow-lg mb-8 px-4"
+            style="font-family: Poppins, sans-serif"
           >
             <g class="bg-white shadow-lg mb-8 py-12 px-4">
               <text
                 class="text-center font-black mb-4 text-xl"
                 x="50%"
                 y="60"
+                dominant-baseline="middle"
                 text-anchor="middle"
+                style="font-weight: 600"
               >
                 Puzzle #{{ index + 1 }}
               </text>
